@@ -2,10 +2,12 @@
 
 random quote generator is a simple react project used to generate and display random quotes from different authors.
 
-![alt text](https://github.com/Omidiran-Daniel-T/random-quote-generator/blob/main/images/quote-generator.png)
+![alt text](https://github.com/Omidiran-Daniel-T/random-quote-generator/blob/main/images/quote-generator.png`)
 
-### Note: Project is still in development
+live demo link: https://random-quote-generator-xi-rust.vercel.app
 
-### Note: Quotes are currently an array.
+Git repo : https://github.com/Omidiran-Daniel-T/random-quote-generator
 
-### Note: 10 quotes in the array.
+Note: Project is still in development
+Note: Quotes are currently an array.
+Note: 10 quotes in the array.
